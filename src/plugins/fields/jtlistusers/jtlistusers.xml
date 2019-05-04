@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="plugin" version="3.9.5" group="fields" method="upgrade">
+	<name>JTLISTUSERS_XML_NAME</name>
+	<author>Guido De Gobbis</author>
+	<creationDate>##DATE##</creationDate>
+	<copyright>Copyright (C) JoomTools. All rights reserved.</copyright>
+	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
+	<authorEmail>support@joomtools.de</authorEmail>
+	<authorUrl>joomtools.de</authorUrl>
+	<version>##VERSION##</version>
+	<description>JTLISTUSERS_XML_DESC</description>
+	<files>
+		<filename plugin="jtlistusers">jtlistusers.php</filename>
+		<folder>fields</folder>
+		<folder>language</folder>
+		<folder>tmpl</folder>
+	</files>
+	<updateservers>
+		<server type="extension" priority="1" name="JTGALLERY_XML_NAME">https://raw.githubusercontent.com/JoomTools/plg_fields_jtlistusers/master/update.xml</server>
+	</updateservers>
+</extension>
