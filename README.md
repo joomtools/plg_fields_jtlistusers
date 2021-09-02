@@ -1,2 +1,2 @@
-# JT - Gallery
-Joomla! CustomField - Displays images from a folder within a gallery and lightbox
+# JT - Userslist
+Joomla! CustomField - Displays a list of users selected in the article
