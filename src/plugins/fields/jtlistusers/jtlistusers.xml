@@ -16,6 +16,6 @@
 		<folder>tmpl</folder>
 	</files>
 	<updateservers>
-		<server type="extension" priority="1" name="JTLISTUSERS_XML_NAME">https://raw.githubusercontent.com/JoomTools/plg_fields_jtlistusers/master/update.xml</server>
+		<server type="extension" priority="1" name="JTLISTUSERS_XML_NAME">https://raw.githubusercontent.com/joomtools/plg_fields_jtlistusers/master/update.xml</server>
 	</updateservers>
 </extension>
