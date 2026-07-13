@@ -23,13 +23,15 @@ Desktop.ini
 .project
 .settings
 
+#VSCode
+.vscode
+
 # Temp files
 *.tmp
 *.bak
 *.swp
 *~.nib
 *~
-baguetteBox.js.zip
 
 # Phing
 build.properties
@@ -41,6 +43,7 @@ phing-latest.phar
 /Gemfile.lock
 
 # composer
+composer.lock
 composer.phar
 composer.lock
 vendor/*
@@ -64,3 +67,6 @@ tests/cache
 /dist
 jorobo.ini
 auth.json
+
+# PHPStan Joomla base
+/joomla*
